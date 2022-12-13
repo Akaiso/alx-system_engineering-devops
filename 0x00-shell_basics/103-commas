@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p -A | sort -k1 -t. | tr '\n' ',' && echo
+ls -p -A | sort -k1 -t. | tr "\n" "," | cat -
