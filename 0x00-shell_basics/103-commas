@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | sort -f | sed 's/^/.\//' | sed 's/\/$/\//' | sed -e '1i./ -e 2i../i'
+ls -a | sort -f | sed 's/^/.\//' | sed 's/\/$/\//' | sed '1i./ 2i../i'
