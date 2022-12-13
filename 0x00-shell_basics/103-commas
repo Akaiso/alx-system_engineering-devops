@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | sort -f -t | sed 's/$/\//'
+find . -type d -print | sed 's/$/\//'
