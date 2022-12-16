@@ -1,0 +1,1 @@
+This is the root folder of the project to write out the answers to the shell basics tasks on alx. Shell initialization, permissions, special parameters, environment variables, /etc/profile and other similar personal configuration files
