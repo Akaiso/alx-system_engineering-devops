@@ -1,2 +1,1 @@
 #!/bin/bash
-tr -dc '\n' | nl | grep -v '\b2\b'
