@@ -1,0 +1,2 @@
+#!/bin/bash
+nl | grep -v '\b2\b'
